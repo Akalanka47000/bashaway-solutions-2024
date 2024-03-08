@@ -1,1 +1,0 @@
-chmod 444 src/relic.txt
